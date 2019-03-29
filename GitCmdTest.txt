@@ -9,6 +9,8 @@ this is Test github
 
 creating a dev is so easy
 
+fix collapse cmd test
+
 work is done
 
 this is the file end
