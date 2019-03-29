@@ -13,6 +13,10 @@ fix collapse cmd test
 
 merge --no-ff test
 
+my work is not done, but i must to fix bug now
+
+bug is fix
+
 work is done
 
 this is the file end
