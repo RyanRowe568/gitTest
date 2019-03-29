@@ -11,6 +11,8 @@ creating a dev is so easy
 
 fix collapse cmd test
 
+merge --no-ff test
+
 work is done
 
 this is the file end
