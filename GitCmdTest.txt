@@ -2,6 +2,7 @@ git is a version control system
 git is a free software
 
 fix bug 002 -- 0331
+fix bug 003 --0321
 
 git is distributed system
 
