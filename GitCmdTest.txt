@@ -7,6 +7,7 @@ git is distributed under the GPL
 
 this is Test github
 
+bug 001 is fix
 
 work is done
 
