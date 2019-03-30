@@ -7,6 +7,7 @@ git is distributed under the GPL
 
 this is Test github
 
+today's work is not done, but there is a bug to be fix now
 
 work is done
 
