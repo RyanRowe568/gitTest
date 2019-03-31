@@ -17,4 +17,6 @@ work is done
 new work is not done, but i have to go to fix bug 002 now.
 bug 003 is fix, new work di done too.
 
+i will go to pull master
+
 this is the file end
