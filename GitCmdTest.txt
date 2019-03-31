@@ -10,8 +10,11 @@ git is distributed under the GPL
 
 this is Test github
 
-bug 001 is fix
+today's work is not done, but there is a bug to be fix now
 
 work is done
+
+new work is not done, but i have to go to fix bug 002 now.
+bug 003 is fix, new work di done too.
 
 this is the file end
