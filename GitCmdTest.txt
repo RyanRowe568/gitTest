@@ -32,4 +32,6 @@ test 0331-1
 
 add important
 
+the cmd study di done.
+
 this is the file end
