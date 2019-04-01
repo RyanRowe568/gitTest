@@ -1,6 +1,9 @@
 git is a version control system
 git is a free software
 
+fix bug 002 -- 0331
+fix bug 003 --0321
+
 git is distributed system
 
 git is distributed under the GPL
@@ -18,5 +21,15 @@ my work is not done, but i must to fix bug now
 bug is fix
 
 work is done
+
+new work is not done, but i have to go to fix bug 002 now.
+bug 003 is fix, new work di done too.
+
+i will go to pull master
+
+test 0331
+test 0331-1
+
+add important
 
 this is the file end
